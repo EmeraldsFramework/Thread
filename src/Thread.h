@@ -3,6 +3,4 @@
 
 #include <stdio.h>
 
-#include "Thread/headers/get_value.h"
-
 #endif
