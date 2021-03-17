@@ -16,7 +16,7 @@ INPUTFILES = src/$(NAME)/*.c
 INPUT = src/$(NAME).c
 OUTPUT = $(NAME)
 
-TESTFILES = src/$(NAME)/*.c
+#TESTFILES = src/$(NAME)/*.c
 TESTINPUT = spec/$(NAME).spec.c
 TESTOUTPUT = spec_results
 
